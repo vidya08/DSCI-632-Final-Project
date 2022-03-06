@@ -3,6 +3,17 @@ Predicting Employee Retention Using Machine Learning Models using IBM Dataset in
 
 
 This project was completed as part of Drexel University's DSCI 632 class in Winter Quarter 2022.
+
+
 Project members include: Vidya Chenji, Mehdi Rajaeebaygi, Maopin Yan 
+
 All authors contributed equally
+
+
 Professor: Dr. Milad Toutounchinan 
+
+
+Notebook works best when ran inside Google Colab as it need PySpark.
+
+
+Libraries used: Spark MLlib, Pandas, NumPy, Matplotlib, Seaborn
